@@ -1,0 +1,5 @@
+C:\Users\Frank\Documents\Visual Studio 2013\Projects\XMLNullableAttribute\XMLNullableAttribute\bin\Debug\XMLNullableAttribute.exe.config
+C:\Users\Frank\Documents\Visual Studio 2013\Projects\XMLNullableAttribute\XMLNullableAttribute\bin\Debug\XMLNullableAttribute.exe
+C:\Users\Frank\Documents\Visual Studio 2013\Projects\XMLNullableAttribute\XMLNullableAttribute\bin\Debug\XMLNullableAttribute.pdb
+C:\Users\Frank\Documents\Visual Studio 2013\Projects\XMLNullableAttribute\XMLNullableAttribute\obj\Debug\XMLNullableAttribute.exe
+C:\Users\Frank\Documents\Visual Studio 2013\Projects\XMLNullableAttribute\XMLNullableAttribute\obj\Debug\XMLNullableAttribute.pdb
